@@ -1,0 +1,28 @@
+\documentclass[12pt, a4paper, oneside]{article} % Paper size, default font size and one-sided paper
+%\graphicspath{{./Figures/}} % Specifies the directory where pictures are stored
+%\usepackage[dcucite]{harvard}
+\usepackage{rotating}
+\usepackage{amsmath}
+\usepackage{setspace}
+\usepackage{pdflscape}
+\usepackage[flushleft]{threeparttable}
+\usepackage{multirow}
+\usepackage[comma, sort&compress]{natbib}% Use the natbib reference package - read up on this to edit the reference style; if you want text (e.g. Smith et al., 2012) for the in-text references (instead of numbers), remove 'numbers' 
+\usepackage{graphicx}
+%\bibliographystyle{plainnat}
+\bibliographystyle{agsm}
+\usepackage[colorlinks = true, citecolor = blue, linkcolor = blue]{hyperref}
+%\hypersetup{urlcolor=blue, colorlinks=true} % Colors hyperlinks in blue - change to black if annoying
+%\renewcommand[\harvardurl]{URL: \url}
+\begin{document}
+\title{Security Selection}
+\author{Rob Hayward}
+\maketitle
+\section{Introduction}
+One the asset allocation has been completed, it is possible to look at how the money within each asset class is distributed between individual investments.  This section will allow you to implement some of the valuation methods that you have learnt in Corporate Analysis (FA284) and Finance (FN282).  
+
+\section{Stock selection}
+Once you have allocated money to be invested in 
+
+
+\end{document}
