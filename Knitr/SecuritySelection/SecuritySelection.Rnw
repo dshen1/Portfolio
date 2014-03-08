@@ -22,7 +22,16 @@
 One the asset allocation has been completed, it is possible to look at how the money within each asset class is distributed between individual investments.  This section will allow you to implement some of the valuation methods that you have learnt in Corporate Analysis (FA284) and Finance (FN282).  
 
 \section{Stock selection}
-Once you have allocated money to be invested in 
+Once you have allocated money to be invested in stocks you will be able to think about the investment techniques that you will use to allocate resources within that class.  These could include things like diversification, industry analysis and stock selection.  For example, you may decide to diversify your portfolio as much as possible to reduce risk.  In that case you have to decide how you will achieve the diversification.  You could look at beta values to decide on the level of risk to take or you could try to ensure that you are diversified across industries.  
+
+You should decide whether you want to focus on \emph{value} or \emph{growth} stocks.  You should take a look at Warren Buffett and the concept of \emph{value investing} to get one idea of how stocks should be selected. 
+
+\section*{Bond selection}
+Within the allocation to bonds, you will two major decisions that you have to make.  The first is whether you are going to choose a diversified portfolio of bonds and the second is whether you can choose bonds to be consistent with your liquidity requirements.  A bond diversification will reduce the overall risk.  You need to consider the bonds that you could put into a portfolio and the ways that you will identify the risk involved. You can also make sure that the bonds mature at the time that money is needed to fulfill some of the goals.  For example, if college fees will be required in 5 years time, the purchase of a bond with 5 years to maturity will ensure that, barring a credit event, money will be on hand to meet that need.  
+
+\section*{Currencies and exchange rates}
+The allocation to cash will involve the purchase of money market instrument.  However, even here there is a decision to be made about which currencies will be held in the portfolio.  The return or interest rate on different currencies will vary.  It is possible to hedge the currency risk by buying and selling forward. It is also possible that the currencies for any of the asset classes can be chosen so that there is no mus-match between the assets and the goals.  For example, if one of the children want to save for US educational expenses, it may make sense to hold some of the portfolio in US dollars.  
+
 
 
 \end{document}
